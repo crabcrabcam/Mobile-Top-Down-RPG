@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{87D14942-102E-15CF-2048-6F1E778C78F2}") = "Mobile Top Down RPG", "Assembly-CSharp.csproj", "{C47B0A97-A46F-5C2F-D8FE-C15F31923CA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{C47B0A97-A46F-5C2F-D8FE-C15F31923CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47B0A97-A46F-5C2F-D8FE-C15F31923CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47B0A97-A46F-5C2F-D8FE-C15F31923CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47B0A97-A46F-5C2F-D8FE-C15F31923CA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
