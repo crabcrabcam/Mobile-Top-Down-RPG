@@ -3,38 +3,38 @@ using System.Collections;
 
 public class ControlCanvas : MonoBehaviour {
 
-	public float movex;
-	public float movey;
+	public float axisx;
+	public float axisy;
 
 	public void upPressed() {
-		movey = 1;
+		axisy = 1;
 	}
 	public void upLetGoOf() {
-		movey = 0;
+        axisy = 0;
 	}
 
 	public void downPressed() {
-		movey = -1;
+        axisy = -1;
 	}
 
 	public void downLetGoOf() {
-		movey = 0;
+        axisy = 0;
 	}
 
 	public void leftPressed() {
-		movex = -1;
+        axisx = -1;
 	}
 
 	public void leftLetGoOf() {
-		movex = 0;
+        axisx = 0;
 	}
 
 	public void rightPressed() {
-		movex = 1;
+        axisx = 1;
 	}
 
 	public void rightLetGoOf() {
-		movex = 0;
+        axisx = 0;
 	}
 
 	public void attackPressed() {
