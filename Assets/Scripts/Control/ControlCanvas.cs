@@ -6,6 +6,8 @@ public class ControlCanvas : MonoBehaviour {
 	public float axisx;
 	public float axisy;
 
+	private PlayerMovement player;
+
 	public void upPressed() {
 		axisy = 1;
 	}
@@ -38,7 +40,8 @@ public class ControlCanvas : MonoBehaviour {
 	}
 
 	public void attackPressed() {
-		//This will attack
-		print("This command will attack using the current weapon!");
+
+		player.Attack ();
+
 	}
 }

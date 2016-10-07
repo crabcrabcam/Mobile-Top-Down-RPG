@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e4c12664ec5144f489053e0748b75e8b
-timeCreated: 1475235444
+timeCreated: 1475835692
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -8,6 +8,7 @@ TextureImporter:
     21300002: RightArrow
     21300004: DownArrow
     21300006: LeftArrow
+    21300008: AttackButton
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -33,7 +34,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -61,7 +62,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -74,7 +75,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 0
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -87,7 +88,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 0
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -100,6 +101,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackButton
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
         width: 32
         height: 32

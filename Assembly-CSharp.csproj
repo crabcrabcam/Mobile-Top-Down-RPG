@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\AI\RandomAIMovementScript.cs" />
      <Compile Include="Assets\Scripts\Control\CameraController.cs" />
      <Compile Include="Assets\Scripts\Control\ControlCanvas.cs" />
      <Compile Include="Assets\Scripts\Control\PlayerMovement.cs" />

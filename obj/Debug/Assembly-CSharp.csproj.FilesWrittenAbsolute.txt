@@ -12,3 +12,7 @@
 /Users/cameron/Mobile Top Down RPG/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/cameron/Mobile Top Down RPG/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/cameron/Mobile Top Down RPG/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/cameron/Mobile Top Down RPG/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/cameron/Mobile Top Down RPG/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/cameron/Mobile Top Down RPG/obj/Debug/Assembly-CSharp.dll
+/Users/cameron/Mobile Top Down RPG/obj/Debug/Assembly-CSharp.dll.mdb
