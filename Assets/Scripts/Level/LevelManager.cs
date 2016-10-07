@@ -11,10 +11,10 @@ public class LevelManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+		
 	}
 
-	void NextLevel(string sceneToLoad) {
+	public void NextLevel(string sceneToLoad) {
 		SceneManager.LoadScene (sceneToLoad);
 	}
 
